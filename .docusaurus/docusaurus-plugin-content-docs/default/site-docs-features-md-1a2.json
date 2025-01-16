@@ -5,7 +5,7 @@
   "source": "@site/docs/features.md",
   "sourceDirName": ".",
   "slug": "/features",
-  "permalink": "/features",
+  "permalink": "/docs/features",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "👋 Welcome to VariableDeals",
-    "permalink": "/"
+    "permalink": "/docs/"
   },
   "next": {
     "title": "🌟 Start Your Journey",
-    "permalink": "/getting-started"
+    "permalink": "/docs/getting-started"
   }
 }
