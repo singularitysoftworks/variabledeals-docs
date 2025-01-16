@@ -6,7 +6,7 @@ const config: Config = {
   title: "VariableDeals Docs",
   favicon: "img/favicon.ico",
 
-  url: "https://www.variabledeals.com/",
+  url: "https://www.variabledeals.com",
   baseUrl: "/docs/",
 
   organizationName: "singularitysoftworks",
