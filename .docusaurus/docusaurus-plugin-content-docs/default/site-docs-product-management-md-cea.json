@@ -5,7 +5,7 @@
   "source": "@site/docs/product-management.md",
   "sourceDirName": ".",
   "slug": "/product-management",
-  "permalink": "/docs/product-management",
+  "permalink": "/product-management",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🌟 Start Your Journey",
-    "permalink": "/docs/getting-started"
+    "permalink": "/getting-started"
   },
   "next": {
     "title": "💰 Pricing Plans",
-    "permalink": "/docs/pricing"
+    "permalink": "/pricing"
   }
 }

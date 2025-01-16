@@ -7,7 +7,7 @@ export default {
   "title": "VariableDeals Docs",
   "favicon": "img/favicon.ico",
   "url": "https://www.variabledeals.com",
-  "baseUrl": "/docs/",
+  "baseUrl": "/",
   "organizationName": "singularitysoftworks",
   "projectName": "variabledeals",
   "onBrokenLinks": "throw",

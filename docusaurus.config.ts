@@ -7,7 +7,7 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   url: "https://www.variabledeals.com",
-  baseUrl: "/docs/",
+  baseUrl: "/",
 
   organizationName: "singularitysoftworks",
   projectName: "variabledeals",

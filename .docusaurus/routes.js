@@ -3,50 +3,50 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/docs/',
-    component: ComponentCreator('/docs/', '550'),
+    path: '/',
+    component: ComponentCreator('/', '8ca'),
     routes: [
       {
-        path: '/docs/',
-        component: ComponentCreator('/docs/', '6b4'),
+        path: '/',
+        component: ComponentCreator('/', 'eeb'),
         routes: [
           {
-            path: '/docs/',
-            component: ComponentCreator('/docs/', '16b'),
+            path: '/',
+            component: ComponentCreator('/', 'a18'),
             routes: [
               {
-                path: '/docs/faqs',
-                component: ComponentCreator('/docs/faqs', 'e7d'),
+                path: '/faqs',
+                component: ComponentCreator('/faqs', '402'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/features',
-                component: ComponentCreator('/docs/features', '480'),
+                path: '/features',
+                component: ComponentCreator('/features', 'dbf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started',
-                component: ComponentCreator('/docs/getting-started', '2a1'),
+                path: '/getting-started',
+                component: ComponentCreator('/getting-started', '23e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/pricing',
-                component: ComponentCreator('/docs/pricing', 'e46'),
+                path: '/pricing',
+                component: ComponentCreator('/pricing', '920'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/product-management',
-                component: ComponentCreator('/docs/product-management', '41d'),
+                path: '/product-management',
+                component: ComponentCreator('/product-management', '0c4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/',
-                component: ComponentCreator('/docs/', '698'),
+                path: '/',
+                component: ComponentCreator('/', 'fc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

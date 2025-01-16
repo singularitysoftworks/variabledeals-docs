@@ -5,7 +5,7 @@
   "source": "@site/docs/pricing.md",
   "sourceDirName": ".",
   "slug": "/pricing",
-  "permalink": "/docs/pricing",
+  "permalink": "/pricing",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🗂️ Product Management",
-    "permalink": "/docs/product-management"
+    "permalink": "/product-management"
   },
   "next": {
     "title": "❓Frequently Asked Questions",
-    "permalink": "/docs/faqs"
+    "permalink": "/faqs"
   }
 }

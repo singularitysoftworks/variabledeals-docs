@@ -5,7 +5,7 @@
   "source": "@site/docs/getting-started.md",
   "sourceDirName": ".",
   "slug": "/getting-started",
-  "permalink": "/docs/getting-started",
+  "permalink": "/getting-started",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🚀 Features of VariableDeals",
-    "permalink": "/docs/features"
+    "permalink": "/features"
   },
   "next": {
     "title": "🗂️ Product Management",
-    "permalink": "/docs/product-management"
+    "permalink": "/product-management"
   }
 }
