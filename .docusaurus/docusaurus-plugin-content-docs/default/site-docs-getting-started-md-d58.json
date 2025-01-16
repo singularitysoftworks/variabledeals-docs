@@ -1,0 +1,26 @@
+{
+  "id": "getting-started",
+  "title": "🌟 Start Your Journey",
+  "description": "Welcome to VariableDeals! Follow this step-by-step guide to set up your account and start optimizing your product pricing across different regions. Whether you're a business owner or someone with a product to sell, this guide will help you get up and running quickly.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getting-started",
+    "title": "🌟 Start Your Journey"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚀 Features of VariableDeals",
+    "permalink": "/features"
+  },
+  "next": {
+    "title": "🗂️ Product Management",
+    "permalink": "/product-management"
+  }
+}

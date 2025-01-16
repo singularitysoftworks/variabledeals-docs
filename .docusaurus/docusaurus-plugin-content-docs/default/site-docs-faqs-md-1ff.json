@@ -1,0 +1,22 @@
+{
+  "id": "faqs",
+  "title": "❓Frequently Asked Questions",
+  "description": "At VariableDeals, we’re committed to making your experience seamless. If you have questions or need help, this page provides quick answers and troubleshooting tips for common issues.",
+  "source": "@site/docs/faqs.md",
+  "sourceDirName": ".",
+  "slug": "/faqs",
+  "permalink": "/faqs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "faqs",
+    "title": "❓Frequently Asked Questions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💰 Pricing Plans",
+    "permalink": "/pricing"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pricing",
+  "title": "💰 Pricing Plans",
+  "description": "VariableDeals offers flexible plans tailored to your business needs. Whether you're just starting or scaling up, we have the perfect plan to help you optimize pricing and grow globally.",
+  "source": "@site/docs/pricing.md",
+  "sourceDirName": ".",
+  "slug": "/pricing",
+  "permalink": "/pricing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pricing",
+    "title": "💰 Pricing Plans"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗂️ Product Management",
+    "permalink": "/product-management"
+  },
+  "next": {
+    "title": "❓Frequently Asked Questions",
+    "permalink": "/faqs"
+  }
+}
